@@ -1,6 +1,24 @@
 # Documentação Completa do AETHER
 **Plataforma de Inteligência Climática Baseada no ODS 13 (Ação contra a Mudança Global do Clima)**
 
+## Descrição da Solução Proposta (Global Solution)
+O problema abordado nesta Global Solution refere-se à crescente frequência
+e severidade de desastres climáticos, como enchentes e secas, potencializados
+pelas mudanças climáticas globais (ODS 13). Muitas regiões vulneráveis carecem
+de sistemas de monitoramento e alerta antecipado eficazes, resultando em
+perdas humanas e materiais significativas devido à falta de preparação.
+A solução computacional desenvolvida é o sistema AETHER, uma plataforma
+interativa de Inteligência Geoespacial projetada para mitigar esses impactos.
+O objetivo principal do sistema é democratizar o acesso a previsões
+de riscos climáticos, permitindo que gestores públicos e a Defesa Civil
+tomem decisões preventivas baseadas em dados consolidados.
+As principais funcionalidades implementadas no protótipo em Python incluem: o cadastro
+dinâmico de áreas de risco, simulação de análise algorítmica de variáveis
+climáticas para determinar níveis de perigo, listagem do monitoramento,
+e filtragem de alertas por gravidade. Tudo orquestrado por um menu interativo.
+
+---
+
 O AETHER é uma API de inteligência de backend (construída com FastAPI) desenhada para processar, analisar e alertar autonomamente sobre riscos climáticos em qualquer região do globo.
 
 Abaixo, explicamos detalhadamente a arquitetura do projeto e a responsabilidade de cada arquivo.
