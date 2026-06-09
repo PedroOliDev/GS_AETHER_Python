@@ -109,3 +109,5 @@ docker-compose up --build
 - **Open-Meteo API** — Dados climáticos em tempo real (Gratuito)
 - **SQLAlchemy** — ORM com SQLite (MVP) / Preparado para PostgreSQL
 - **Pydantic** — Validação e serialização de dados
+
+Feito por: Arthur Sgarbi: 569774, Bruno Bastos: 569434, Pedro Oliveira: 572468
